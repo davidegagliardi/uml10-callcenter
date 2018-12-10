@@ -1,0 +1,3 @@
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/cmake-build-debug/CMakeFiles/Eser10_Callcenter___UML.dir

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/cmake-build-debug

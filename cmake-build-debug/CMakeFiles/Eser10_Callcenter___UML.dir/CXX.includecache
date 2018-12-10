@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/callcenter.h
+operatore.h
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/operatore.h
+chiamate.h
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/chiamate.h
+string
+-
+list
+-
+
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/chiamate.h
+operatore.h
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/operatore.h
+utente.h
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/utente.h
+
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/main.cpp
+callcenter.h
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/callcenter.h
+iostream
+-
+list
+-
+
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/operatore.h
+personale.h
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/personale.h
+
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/personale.h
+string
+-
+
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/utente.h
+personale.h
+/Users/davidegagliardi/Google Drive/1819 - Terzo anno/Programmazione a oggetti/ESAME/Eser10 Callcenter - UML/personale.h
+
