@@ -8,9 +8,9 @@ int main() {
 
     Utente u1("Stegosandro","Scottecs",1);
     Utente u2("Joe","Bastianich",2);
-    list <Utente> lu;
-    lu.push_back(u1);
-    lu.push_back(u2);
+    list <Utente> ls;
+    ls.push_back(u1);
+    ls.push_back(u2);
 
     cc.add_operatore("Antonino","Cannavacciuolo",1,2);
     cc.add_operatore("Carlo","Cracco",2,1);
